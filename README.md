@@ -1,4 +1,6 @@
 # lego-learner
+***Active and collaborative version of this repository located on the "Overview" page of my profile***
+
 Using machine learning and principles from finance to trade lego sets
 
 ## The Data
