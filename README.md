@@ -1,5 +1,6 @@
 # lego-learner
 ***(Active and collaborative version of this repository located on the "Overview" page of my profile.)***
+***(The coursework leading up to this project can be found in the repository titled Financial-Machine-Learning-Bowdoin-CSCI-3465 on my github)***
 
 Using machine learning and principles from finance to trade lego sets
 
